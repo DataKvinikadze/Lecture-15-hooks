@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+/* App2.jsx styles */
+
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+.light-on {
+  background-color: black;
+  color: white;
+}
+
+.light-off {
+  background-color: white;
+  color: black;
+}
